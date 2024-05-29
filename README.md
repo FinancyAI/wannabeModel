@@ -15,6 +15,8 @@ Here we will save all the python and jupyter notebooks needed to:
 3 - **extractor.py**: extracts cik (company) data from the API based on a sic (industry) provided, organize it and store it as a CSV.
 The reason why we decided to organize the data can be seen on the FinancyEDA.ipynb.
 
+(needs a CSV e.g. Pharmaceutical_Preparations.csv containing all the tickers per given sic (industry)
+
 4 - **uploader.py**: uploads a csv file, that contains financial statement data about all the companies in a certain industry, to an s3 bucket. This file receives the path_to_file to the .env file as a parameter, where we will store the AWS credentials
 
 (needs .env file that will not be committed to git)
