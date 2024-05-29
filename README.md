@@ -1,5 +1,7 @@
 # wannabeModel
 
+This is a project for Barcelona Technology School
+
 Here we will save all the python and jupyter notebooks needed to:
 
 1 - play with the EDGAR API
