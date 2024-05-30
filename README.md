@@ -12,12 +12,21 @@ Here we will save all the python and jupyter notebooks needed to:
 
 (needs companies_per_sic.csv, Company_Data.csv)
 
-3 - **extractor.py**: extracts cik (company) data from the API based on a sic (industry) provided, organize it and store it as a CSV.
-The reason why we decided to organize the data can be seen on the FinancyEDA.ipynb.
+3 - **Ingestion Script (ingestion.py)**:
+Extracts company JSON data by giving it a list of tickers.
+Stores a JSON file for each company in the S3.
 
-(needs a CSV e.g. Pharmaceutical_Preparations.csv containing all the tickers per given sic (industry)
 
-4 - **uploader.py**: uploads a csv file, that contains financial statement data about all the companies in a certain industry, to an s3 bucket. This file receives the path_to_file to the .env file as a parameter, where we will store the AWS credentials
+4 - **Processing Script (processor.py)**:
+Reads the JSON data in the s3 bucket.
+Creates a RDS table with columns: ticker, date, form, type, amount and Stores the data in an RDS database
+
+
+5 - **Modelling Script (model.py)**:
+Queries the db to extract required data.
+Preprocesses the data.
+Runs different models and evaluates their performance. 
+
 
 (needs .env file that will not be committed to git)
 
