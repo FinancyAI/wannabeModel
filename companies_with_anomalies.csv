@@ -1,0 +1,110 @@
+Scandal Year,Ticker,Company Name,Industry,Filer Status,State of Incorporation,Fiscal Year End,Exchanges,Detail
+2008,AIG,"AMERICAN INTERNATIONAL GROUP, INC.","Fire, Marine & Casualty Insurance",Large accelerated filer,DE,31-12,"['NYSE', 'NYSE']",American International Group
+2008,AIG-PA,"AMERICAN INTERNATIONAL GROUP, INC.","Fire, Marine & Casualty Insurance",Large accelerated filer,DE,31-12,"['NYSE', 'NYSE']",American International Group
+2002,XRX,Xerox Holdings Corp,"Computer Peripheral Equipment, NEC",Large accelerated filer,CT,31-12,['Nasdaq'],Xerox Corporation
+2016,WFC,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFC-PY,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFC-PR,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFC-PL,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFC-PC,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFC-PD,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFC-PZ,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFCNP,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2016,WFC-PA,WELLS FARGO & COMPANY/MN,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE', 'NYSE', 'NYSE']",Wells Fargo
+2015,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2015,AGATF,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2015,DEENF,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2015,ADZCF,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2015,OLOXF,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2015,DGP,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2015,DGZ,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2015,DZZ,DEUTSCHE BANK AKTIENGESELLSCHAFT,State Commercial Banks,Large accelerated filer,,31-12,"['NYSE', 'OTC', 'OTC', 'OTC', 'NYSE', 'NYSE', 'NYSE', 'OTC']",Deutsche Bank
+2011,UBS,UBS Group AG,National Commercial Banks,Large accelerated filer,V8,31-12,['NYSE'],UBS Group AG
+2002,BMY,BRISTOL MYERS SQUIBB CO,Pharmaceutical Preparations,Large accelerated filer,DE,31-12,"['NYSE', 'OTC', 'NYSE']",Bristol-Myers Squibb
+2002,BMYMP,BRISTOL MYERS SQUIBB CO,Pharmaceutical Preparations,Large accelerated filer,DE,31-12,"['NYSE', 'OTC', 'NYSE']",Bristol-Myers Squibb
+2002,CELG-RI,BRISTOL MYERS SQUIBB CO,Pharmaceutical Preparations,Large accelerated filer,DE,31-12,"['NYSE', 'OTC', 'NYSE']",Bristol-Myers Squibb
+2008,C,CITIGROUP INC,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE']",Citigroup
+2008,C-PJ,CITIGROUP INC,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE']",Citigroup
+2008,C-PN,CITIGROUP INC,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE']",Citigroup
+2012,JPM,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,JPM-PC,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,JPM-PD,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,JPM-PJ,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,JPM-PK,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,JPM-PL,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,JPM-PM,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,AMJ,JPMORGAN CHASE & CO,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE']",JPMorgan Chase
+2012,GSK,GSK plc,Pharmaceutical Preparations,Large accelerated filer,X0,,"['NYSE', 'OTC']",GlaxoSmithKline
+2012,GLAXF,GSK plc,Pharmaceutical Preparations,Large accelerated filer,X0,,"['NYSE', 'OTC']",GlaxoSmithKline
+2014,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,Crude Petroleum & Natural Gas,Large accelerated filer,D5,31-12,"['NYSE', 'NYSE']",Petrobras
+2014,PBR-A,PETROBRAS - PETROLEO BRASILEIRO SA,Crude Petroleum & Natural Gas,Large accelerated filer,D5,31-12,"['NYSE', 'NYSE']",Petrobras
+2002,LUMN,"Lumen Technologies, Inc.",Telephone Communications (No Radiotelephone),Large accelerated filer,LA,31-12,['NYSE'],Lumen Technologies (formerly CenturyLink)
+2012,HPQ,HP INC,Computer & office Equipment,Large accelerated filer,DE,31-10,['NYSE'],HP Inc. (involved in the aftermath of Autonomy scandal)
+2000,LU,Lufax Holding Ltd,Finance Services,Large accelerated filer,E9,31-12,['NYSE'],"Lucent Technologies (now part of Alcatel-Lucent, traded as ALU and now part of Nokia, ticker 'NOK')"
+2012,GRPN,"Groupon, Inc.",Services-Advertising Agencies,Accelerated filer,DE,31-12,['Nasdaq'],Groupon (accounting irregularities post-IPO)
+2014,GM,General Motors Co,Motor Vehicles & Passenger Car Bodies,Large accelerated filer,,31-12,['NYSE'],"General Motors (U.S., ignition switch scandal)"
+2010,BP,BP PLC,Petroleum Refining,Large accelerated filer,X0,31-12,"['NYSE', 'OTC']","BP (British Petroleum, Deepwater Horizon oil spill)"
+2010,BPAQF,BP PLC,Petroleum Refining,Large accelerated filer,X0,31-12,"['NYSE', 'OTC']","BP (British Petroleum, Deepwater Horizon oil spill)"
+2001,MSFT,MICROSOFT CORP,Services-Prepackaged Software,Large accelerated filer,WA,30-06,['Nasdaq'],Microsoft (Accounting investigations)
+2008,TGT,TARGET CORP,Retail-Variety Stores,Large accelerated filer,MN,01-02,['NYSE'],Target Corporation (Data breach)
+2005,JCI,Johnson Controls International plc,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Large accelerated filer,L2,30-09,['NYSE'],Johnson Controls (Bribery scandal)
+2010,HD,"HOME DEPOT, INC.",Retail-Lumber & Other Building Materials Dealers,Large accelerated filer,DE,08-12,['NYSE'],Home Depot (Data breach)
+2013,LVS,LAS VEGAS SANDS CORP,Hotels & Motels,Large accelerated filer,NV,31-12,['NYSE'],Las Vegas Sands (Money laundering)
+1998,NKE,"NIKE, Inc.",Rubber & Plastics Footwear,Large accelerated filer,OR,31-05,['NYSE'],Nike (Labor practices)
+2014,AAPL,Apple Inc.,Electronic Computers,Large accelerated filer,CA,28-09,['Nasdaq'],Apple Inc. (Antitrust investigations)
+2008,BAC,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BML-PG,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BML-PH,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PE,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BML-PJ,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BML-PL,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PB,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PK,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PL,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PM,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PN,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PO,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PP,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,MER-PK,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PQ,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BAC-PS,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2008,BACRP,BANK OF AMERICA CORP /DE/,National Commercial Banks,Large accelerated filer,DE,31-12,"['NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'NYSE', 'OTC', 'NYSE']",Bank of America (Mortgage fraud)
+2018,TSLA,"Tesla, Inc.",Motor Vehicles & Passenger Car Bodies,Large accelerated filer,DE,31-12,['Nasdaq'],Tesla Inc. (Elon Musk's misleading tweets)
+2020,AMZN,AMAZON COM INC,Retail-Catalog & Mail-Order Houses,Large accelerated filer,DE,31-12,['Nasdaq'],Amazon (Price gouging investigations)
+2019,GOOGL,Alphabet Inc.,"Services-Computer Programming, Data Processing, Etc.",Large accelerated filer,DE,31-12,"['Nasdaq', 'Nasdaq']",Google (Antitrust investigations)
+2019,GOOG,Alphabet Inc.,"Services-Computer Programming, Data Processing, Etc.",Large accelerated filer,DE,31-12,"['Nasdaq', 'Nasdaq']",Google (Antitrust investigations)
+2014,INTC,INTEL CORP,Semiconductors & Related Devices,Large accelerated filer,DE,30-12,['Nasdaq'],Intel (Antitrust investigations)
+2005,IBM,INTERNATIONAL BUSINESS MACHINES CORP,Computer & office Equipment,Large accelerated filer,NY,31-12,['NYSE'],IBM (Bribery scandal)
+2016,PEP,PEPSICO INC,Beverages,Large accelerated filer,NC,30-12,['Nasdaq'],PepsiCo (Bribery scandal)
+2018,SBUX,STARBUCKS CORP,Retail-Eating & Drinking Places,Large accelerated filer,WA,27-09,['Nasdaq'],Starbucks (Racial bias scandal)
+2009,GE,GENERAL ELECTRIC CO,Electronic & Other Electrical Equipment (No Computer Equip),Large accelerated filer,NY,31-12,['NYSE'],General Electric (Accounting fraud)
+2013,NFLX,NETFLIX INC,Services-Video Tape Rental,Large accelerated filer,DE,31-12,['Nasdaq'],Netflix (Insider trading)
+2009,AMD,ADVANCED MICRO DEVICES INC,Semiconductors & Related Devices,Large accelerated filer,DE,28-12,['Nasdaq'],AMD (Antitrust lawsuit)
+2013,CSCO,"CISCO SYSTEMS, INC.",Computer Communications Equipment,Large accelerated filer,DE,27-07,['Nasdaq'],Cisco Systems (Whistleblower case)
+2011,ORCL,ORACLE CORP,Services-Prepackaged Software,Large accelerated filer,,31-05,['NYSE'],Oracle (Bribery scandal)
+2018,QCOM,QUALCOMM INC/DE,Radio & Tv Broadcasting & Communications Equipment,Large accelerated filer,DE,24-09,['Nasdaq'],Qualcomm (Antitrust lawsuit)
+2014,EBAY,EBAY INC,"Services-Business Services, NEC",Large accelerated filer,DE,31-12,['Nasdaq'],eBay (Data breach)
+2015,BABA,Alibaba Group Holding Ltd,"Services-Business Services, NEC",Large accelerated filer,K3,,"['NYSE', 'OTC']",Alibaba (Counterfeit goods investigation)
+2015,BABAF,Alibaba Group Holding Ltd,"Services-Business Services, NEC",Large accelerated filer,K3,,"['NYSE', 'OTC']",Alibaba (Counterfeit goods investigation)
+2020,SHOP,SHOPIFY INC.,Services-Prepackaged Software,,Z4,31-12,['NYSE'],Shopify (Data breach)
+2019,PYPL,"PayPal Holdings, Inc.","Services-Business Services, NEC",Large accelerated filer,,31-12,['Nasdaq'],PayPal (Consumer fraud)
+2019,SQ,"Block, Inc.",Services-Prepackaged Software,Large accelerated filer,DE,31-12,"['NYSE', 'OTC']",Square (Data breach)
+2019,BSQKZ,"Block, Inc.",Services-Prepackaged Software,Large accelerated filer,DE,31-12,"['NYSE', 'OTC']",Square (Data breach)
+2020,SPOT,Spotify Technology S.A.,Radio Broadcasting Stations,Large accelerated filer,N4,31-12,['NYSE'],Spotify (Misleading advertising)
+2017,UBER,"Uber Technologies, Inc","Services-Business Services, NEC",Large accelerated filer,DE,31-12,['NYSE'],Uber (Sexual harassment scandal)
+2019,LYFT,"Lyft, Inc.","Services-Business Services, NEC",Large accelerated filer,DE,31-12,['Nasdaq'],Lyft (Labor practices investigation)
+2019,TSN,"TYSON FOODS, INC.",Poultry Slaughtering and Processing,Large accelerated filer,DE,30-09,['NYSE'],Tyson Foods (Labor practices investigation)
+2018,MKC,MCCORMICK & CO INC,Miscellaneous Food Preparations & Kindred Products,Large accelerated filer,MD,30-11,"['NYSE', 'NYSE']",McCormick & Company (Price-fixing scandal)
+2018,MKC-V,MCCORMICK & CO INC,Miscellaneous Food Preparations & Kindred Products,Large accelerated filer,MD,30-11,"['NYSE', 'NYSE']",McCormick & Company (Price-fixing scandal)
+2017,SJM,J M SMUCKER Co,"Canned, Fruits, Veg, Preserves, Jams & Jellies",Large accelerated filer,OH,30-04,['NYSE'],J.M. Smucker Company (Misleading labeling)
+2019,KHC,Kraft Heinz Co,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Large accelerated filer,DE,30-12,['Nasdaq'],Kraft Heinz (Accounting scandal)
+2017,MDLZ,"Mondelez International, Inc.",Food and Kindred Products,Large accelerated filer,IL,31-12,['Nasdaq'],Mondelez International (Price-fixing)
+2015,L,LOEWS CORP,"Fire, Marine & Casualty Insurance",Large accelerated filer,DE,31-12,['NYSE'],Loews Corporation (Environmental violations)
+2013,YUM,YUM BRANDS INC,Retail-Eating  Places,Large accelerated filer,NC,31-12,['NYSE'],Yum! Brands (Food safety scandal)
+2018,DPZ,DOMINOS PIZZA INC,Wholesale-Groceries & Related Products,Large accelerated filer,DE,02-10,['NYSE'],Domino's Pizza (Wage theft)
+2017,PZZA,PAPA JOHNS INTERNATIONAL INC,Retail-Eating  Places,Large accelerated filer,DE,31-12,['Nasdaq'],Papa John's (Racial slur controversy)
+2015,EAT,"BRINKER INTERNATIONAL, INC",Retail-Eating  Places,Large accelerated filer,DE,26-06,['NYSE'],Brinker International (Labor practices investigation)
+2019,CAKE,CHEESECAKE FACTORY INC,Retail-Eating  Places,Large accelerated filer,DE,03-10,['Nasdaq'],Cheesecake Factory (Wage theft)
+2020,BJRI,BJs RESTAURANTS INC,Retail-Eating  Places,Accelerated filer,CA,03-10,['Nasdaq'],BJ's Restaurants (Wage theft)
+2018,RRGB,RED ROBIN GOURMET BURGERS INC,Retail-Eating  Places,Accelerated filer,DE,31-12,['Nasdaq'],Red Robin Gourmet Burgers (Wage theft)
+2019,PLAY,"Dave & Buster's Entertainment, Inc.",Retail-Eating  Places,Large accelerated filer,DE,02-02,['Nasdaq'],Dave & Buster's (Wage theft)
