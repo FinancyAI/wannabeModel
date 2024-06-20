@@ -129,99 +129,100 @@ cik_str,Scandal Year,Ticker,Company Name,Anomaly Ticker,Detail
 1131399,2006,GSK,GSK plc,GSK,Health Care Fraud
 1131399,2007,GSK,GSK plc,GSK,Health Care Fraud
 1131399,2007,GLAXF,GSK plc,GSK,Health Care Fraud
-312070,2012,ATMP,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2021,ATMP,BARCLAYS BANK PLC,BARC,Securities Over-Issuances
-312070,2022,ATMP,BARCLAYS BANK PLC,BARC,Securities Over-Issuances
-312070,2012,AYTEF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,BALTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,BWVTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,COWTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,VXX,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,VXZ,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,PGMFF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,SGGFF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJTFF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJUFF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,PGDDF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJGTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJMTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJNTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJOFF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJPFF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJSSF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,ICITF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JEMTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJATF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJCTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,JJETF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,DJP,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,GBBEF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,GRN,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-312070,2012,GRNTF,BARCLAYS BANK PLC,BARC,Involved in the Libor rate-manipulation scandal
-1119639,2014,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,PBR,Petrobras
-1119639,2014,PBR-A,PETROBRAS - PETROLEO BRASILEIRO SA,PBR,Petrobras
-96223,2005,JEF,Jefferies Financial Group Inc.,LUK,"Leucadia National (involved in Refco scandal, now part of Jefferies Financial Group, ticker 'JEF')"
-18926,2002,LUMN,"Lumen Technologies, Inc.",LUMN,Lumen Technologies (formerly CenturyLink)
-47217,2012,HPQ,HP INC,HPQ,HP Inc. (involved in the aftermath of Autonomy scandal)
-1490281,2012,GRPN,"Groupon, Inc.",GRPN,Groupon (accounting irregularities post-IPO)
-1119639,2014,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,PETR4.SA,Petrobras (Brazil)
-1119639,2014,PBR-A,PETROBRAS - PETROLEO BRASILEIRO SA,PETR4.SA,Petrobras (Brazil)
-1767582,2020,LKNCY,Luckin Coffee Inc.,LKI,Luckin Coffee (China)
-1467858,2014,GM,General Motors Co,GM,"General Motors (U.S., ignition switch scandal)"
-789019,2001,MSFT,MICROSOFT CORP,MSFT,Microsoft (Accounting investigations)
-27419,2008,TGT,TARGET CORP,TGT,Target Corporation (Data breach)
-833444,2005,JCI,Johnson Controls International plc,JCI,Johnson Controls (Bribery scandal)
-354950,2010,HD,"HOME DEPOT, INC.",HD,Home Depot (Data breach)
-1300514,2013,LVS,LAS VEGAS SANDS CORP,LVS,Las Vegas Sands (Money laundering)
-320193,2014,AAPL,Apple Inc.,AAPL,Apple Inc. (Antitrust investigations)
-70858,2008,BAC,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BML-PG,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BML-PH,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PE,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BML-PJ,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BML-PL,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PB,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PK,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PL,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PM,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PN,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PO,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PP,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,MER-PK,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PQ,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BAC-PS,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-70858,2008,BACRP,BANK OF AMERICA CORP /DE/,BAC,Bank of America (Mortgage fraud)
-1318605,2018,TSLA,"Tesla, Inc.",TSLA,Tesla Inc. (Elon Musk's misleading tweets)
-1018724,2020,AMZN,AMAZON COM INC,AMZN,Amazon (Price gouging investigations)
-1652044,2019,GOOGL,Alphabet Inc.,GOOG,Google (Antitrust investigations)
-1652044,2019,GOOG,Alphabet Inc.,GOOG,Google (Antitrust investigations)
-50863,2014,INTC,INTEL CORP,INTC,Intel (Antitrust investigations)
-51143,2005,IBM,INTERNATIONAL BUSINESS MACHINES CORP,IBM,IBM (Bribery scandal)
-77476,2016,PEP,PEPSICO INC,PEP,PepsiCo (Bribery scandal)
-829224,2018,SBUX,STARBUCKS CORP,SBUX,Starbucks (Racial bias scandal)
-40545,2009,GE,GENERAL ELECTRIC CO,GE,General Electric (Accounting fraud)
-1065280,2013,NFLX,NETFLIX INC,NFLX,Netflix (Insider trading)
-2488,2009,AMD,ADVANCED MICRO DEVICES INC,AMD,AMD (Antitrust lawsuit)
-858877,2013,CSCO,"CISCO SYSTEMS, INC.",CSCO,Cisco Systems (Whistleblower case)
-1341439,2011,ORCL,ORACLE CORP,ORCL,Oracle (Bribery scandal)
-804328,2018,QCOM,QUALCOMM INC/DE,QCOM,Qualcomm (Antitrust lawsuit)
-1065088,2014,EBAY,EBAY INC,EBAY,eBay (Data breach)
-1633917,2019,PYPL,"PayPal Holdings, Inc.",PYPL,PayPal (Consumer fraud)
-1512673,2019,SQ,"Block, Inc.",SQ,Square (Data breach)
-1512673,2019,BSQKZ,"Block, Inc.",SQ,Square (Data breach)
-1759509,2019,LYFT,"Lyft, Inc.",LYFT,Lyft (Labor practices investigation)
-100493,2019,TSN,"TYSON FOODS, INC.",TSN,Tyson Foods (Labor practices investigation)
-63754,2018,MKC,MCCORMICK & CO INC,MKC,McCormick & Company (Price-fixing scandal)
-63754,2018,MKC-V,MCCORMICK & CO INC,MKC,McCormick & Company (Price-fixing scandal)
-91419,2017,SJM,J M SMUCKER Co,SJM,J.M. Smucker Company (Misleading labeling)
-1637459,2019,KHC,Kraft Heinz Co,KHC,Kraft Heinz (Accounting scandal)
-1103982,2017,MDLZ,"Mondelez International, Inc.",MDLZ,Mondelez International (Price-fixing)
-60086,2015,L,LOEWS CORP,L,Loews Corporation (Environmental violations)
-1041061,2013,YUM,YUM BRANDS INC,YUM,Yum! Brands (Food safety scandal)
-1286681,2018,DPZ,DOMINOS PIZZA INC,DPZ,Domino's Pizza (Wage theft)
-901491,2017,PZZA,PAPA JOHNS INTERNATIONAL INC,PZZA,Papa John's (Racial slur controversy)
-703351,2015,EAT,"BRINKER INTERNATIONAL, INC",EAT,Brinker International (Labor practices investigation)
-887596,2019,CAKE,CHEESECAKE FACTORY INC,CAKE,Cheesecake Factory (Wage theft)
-1013488,2020,BJRI,BJs RESTAURANTS INC,BJRI,BJ's Restaurants (Wage theft)
-1171759,2018,RRGB,RED ROBIN GOURMET BURGERS INC,RRGB,Red Robin Gourmet Burgers (Wage theft)
-1525769,2019,PLAY,"Dave & Buster's Entertainment, Inc.",PLAY,Dave & Buster's (Wage theft)
+312070,2012,ATMP,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2021,ATMP,BARCLAYS BANK PLC,BARC,Securities Over-Issuances (Unauthorized Offerings)
+312070,2022,ATMP,BARCLAYS BANK PLC,BARC,Securities Over-Issuances (Unauthorized Offerings)
+312070,2012,AYTEF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,BALTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,BWVTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,COWTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,VXX,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,VXZ,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,PGMFF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,SGGFF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJTFF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJUFF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,PGDDF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJGTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJMTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJNTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJOFF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJPFF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJSSF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,ICITF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JEMTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJATF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJCTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,JJETF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,DJP,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,GBBEF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,GRN,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+312070,2012,GRNTF,BARCLAYS BANK PLC,BARC,Interest Rate Manipulation (Libor Rate-Manipulation)
+1119639,2014,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,PBR,Financial Misrepresentaion
+1119639,2014,PBR-A,PETROBRAS - PETROLEO BRASILEIRO SA,PBR,Financial Misrepresentaion
+96223,2005,JEF,Jefferies Financial Group Inc.,LUK,Financial Misconduct (Refco Brokerage Fraud Involvement)
+18926,2002,LUMN,"Lumen Technologies, Inc.",CTL,Corporate Rebranding (Formerly CenturyLink)
+47217,2012,HPQ,HP INC,HPQ,Acquisition Misconduct (Autonomy Valuation Dispute)
+1490281,2012,GRPN,"Groupon, Inc.",GRPN,Accounting Irregularities (Post-IPO Misstatements)
+1119639,2014,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,PETR4.SA,Corruption Scandal (Operation Car Wash)
+1119639,2014,PBR-A,PETROBRAS - PETROLEO BRASILEIRO SA,PETR4.SA,Corruption Scandal (Operation Car Wash)
+1767582,2020,LKNCY,Luckin Coffee Inc.,LKI,Financial Fraud (Revenue Overstatement)
+1467858,2014,GM,General Motors Co,GM,Product Safety Failure (Ignition Switch Scandal)
+789019,2001,MSFT,MICROSOFT CORP,MSFT,Accounting Investigations (Financial Practices Scrutiny)
+27419,2008,TGT,TARGET CORP,TGT,Data Breach (Security Compromise)
+833444,2005,JCI,Johnson Controls International plc,JCI,Bribery Scandal (Illegal Payments Investigation)
+354950,2010,HD,"HOME DEPOT, INC.",HD,Data Breach (Security Incident)
+1300514,2013,LVS,LAS VEGAS SANDS CORP,LVS,Money Laundering (Financial Regulations Violation)
+320193,2014,AAPL,Apple Inc.,AAPL,Antitrust Investigations (Competition Law Scrutiny)
+70858,2008,BAC,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BML-PG,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BML-PH,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PE,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BML-PJ,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BML-PL,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PB,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PK,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PL,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PM,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PN,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PO,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PP,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,MER-PK,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PQ,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BAC-PS,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+70858,2008,BACRP,BANK OF AMERICA CORP /DE/,BAC,Mortgage Fraud (Subprime Crisis Involvement and Legal Settlements)
+1318605,2018,TSLA,"Tesla, Inc.",TSLA,Securities Fraud (Misleading Communications via Social Media)
+1018724,2020,AMZN,AMAZON COM INC,AMZN,Price Gouging Investigations (COVID-19 Essential Goods)
+1652044,2019,GOOGL,Alphabet Inc.,GOOG,Antitrust Investigations (Market Dominance and Exclusionary Practices)
+1652044,2019,GOOG,Alphabet Inc.,GOOG,Antitrust Investigations (Market Dominance and Exclusionary Practices)
+50863,2014,INTC,INTEL CORP,INTC,Antitrust Investigations (Loyalty Rebates and Market Exclusion)
+51143,2005,IBM,INTERNATIONAL BUSINESS MACHINES CORP,IBM,Bribery Scandal (FCPA Violations in South Korea and China)
+77476,2016,PEP,PEPSICO INC,PEP,Bribery Scandal (Third-Party Payments to Government Officials in India)
+829224,2018,SBUX,STARBUCKS CORP,SBUX,Racial Bias Incident (Philadelphia Arrests and Company-Wide Training)
+40545,2009,GE,GENERAL ELECTRIC CO,GE,Accounting Fraud (Misleading Financial Statements and SEC Settlement)
+1065280,2016,NFLX,NETFLIX INC,NFLX,Insider Trading (Subscriber Growth Data Misuse)
+1065280,2017,NFLX,NETFLIX INC,NFLX,Insider Trading (Subscriber Growth Data Misuse)
+1065280,2018,NFLX,NETFLIX INC,NFLX,Insider Trading (Subscriber Growth Data Misuse)
+1065280,2019,NFLX,NETFLIX INC,NFLX,Insider Trading (Subscriber Growth Data Misuse)
+2488,2009,AMD,ADVANCED MICRO DEVICES INC,AMD,Antitrust Lawsuit (Settlement and Competitive Practices Agreement)
+858877,2013,CSCO,"CISCO SYSTEMS, INC.",CSCO,Whistleblower Case (Cybersecurity Vulnerabilities and False Claims Act Settlement)
+1341439,2011,ORCL,ORACLE CORP,ORCL,Bribery Scandal (FCPA Violations and Settlement)
+804328,2018,QCOM,QUALCOMM INC/DE,QCOM,Antitrust Lawsuit (Monopolistic Practices and FRAND Licensing Violations)
+1065088,2014,EBAY,EBAY INC,EBAY,Data Breach (Compromised User Information and Encrypted Passwords)
+1633917,2019,PYPL,"PayPal Holdings, Inc.",PYPL,Consumer Fraud (BNPL Practices and Technical Support Scams)
+1512673,2019,SQ,"Block, Inc.",SQ,Data Breach (Unauthorized Access by Former Employee)
+1512673,2019,BSQKZ,"Block, Inc.",SQ,Data Breach (Unauthorized Access by Former Employee)
+1759509,2019,LYFT,"Lyft, Inc.",LYFT,Labor Practices Investigation (Worker Classification and Wage Settlement)
+100493,2019,TSN,"TYSON FOODS, INC.",TSN,Labor Practices Investigation (Child Labor and Fair Labor Standards Violations)
+91419,2017,SJM,J M SMUCKER Co,SJM,J.M. Misleading Labeling (False Advertising on Product Ingredients)
+1637459,2019,KHC,Kraft Heinz Co,KHC,Accounting Scandal (Improper Expense Management and Financial Restatements)
+1103982,2017,MDLZ,"Mondelez International, Inc.",MDLZ,Price-Fixing Investigation (EU Antitrust Probe on Trade Restrictions)
+60086,2015,L,LOEWS CORP,L,Environmental Violations (Non-Compliance and Hazard Management)
+1041061,2013,YUM,YUM BRANDS INC,YUM,Food Safety Scandal (Antibiotics and Hormones in Chicken Supply)
+1286681,2018,DPZ,DOMINOS PIZZA INC,DPZ,Wage Theft (Underpayment and Improper Expense Reimbursements)
+901491,2017,PZZA,PAPA JOHNS INTERNATIONAL INC,PZZA,Racial Slur Controversy (Resignation of Founder and Reputation Impact)
+703351,2015,EAT,"BRINKER INTERNATIONAL, INC",EAT,Labor Practices Investigation
+887596,2019,CAKE,CHEESECAKE FACTORY INC,CAKE,Wage Theft (Underpayment and Overtime Discrepancies)
+1013488,2020,BJRI,BJs RESTAURANTS INC,BJRI,Wage Theft (Underpayment and Overtime Discrepancies)
+1171759,2018,RRGB,RED ROBIN GOURMET BURGERS INC,RRGB,Wage Theft (Underpayment and Overtime Discrepancies)
+1525769,2019,PLAY,"Dave & Buster's Entertainment, Inc.",PLAY,Wage Theft (Underpayment and Overtime Discrepancies)
