@@ -1,0 +1,228 @@
+cik_str,Scandal Year,Ticker,Company Name,Anomaly Ticker,earliest XBRL,XBRL available during anomaly,10-Q/ 10-K available,Decision,Detail - needs to be updated
+2488,2009,AMD,ADVANCED MICRO DEVICES INC,AMD,2007,Yes,Yes,Yes,AMD (Antitrust lawsuit)
+5272,2000,AIG,"AMERICAN INTERNATIONAL GROUP, INC.",AIG,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+5272,2001,AIG,"AMERICAN INTERNATIONAL GROUP, INC.",AIG,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+5272,2005,AIG,"AMERICAN INTERNATIONAL GROUP, INC.",AIG,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+5272,2000,AIG-PA,"AMERICAN INTERNATIONAL GROUP, INC.",AIG,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+5272,2001,AIG-PA,"AMERICAN INTERNATIONAL GROUP, INC.",AIG,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+5272,2005,AIG-PA,"AMERICAN INTERNATIONAL GROUP, INC.",AIG,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+14272,2001,BMY,BRISTOL MYERS SQUIBB CO,BMY,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentation)
+14272,2002,BMY,BRISTOL MYERS SQUIBB CO,BMY,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentation)
+14272,2002,BMYMP,BRISTOL MYERS SQUIBB CO,BMY,2006,No,Yes,No,Financial Misrepresentation
+14272,2002,CELG-RI,BRISTOL MYERS SQUIBB CO,BMY,2006,No,Yes,No,Financial Misrepresentation
+18926,2000,LUMN,"Lumen Technologies, Inc.",Q (Quest Communications),2007,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+18926,2001,LUMN,"Lumen Technologies, Inc.",Q (Quest Communications),2007,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+18926,2002,LUMN,"Lumen Technologies, Inc.",Q (Quest Communications),2007,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+18926,2002,LUMN,"Lumen Technologies, Inc.",LUMN,2007,No,Yes,No,Lumen Technologies (formerly CenturyLink)
+19617,2005,JPM,JPMORGAN CHASE & CO,JPM,2006,No,Yes,No,Security Fraud
+19617,2006,JPM,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Security Fraud
+19617,2007,JPM,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Security Fraud
+19617,2008,JPM,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Security Fraud
+19617,2009,JPM,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Security Fraud
+19617,2010,JPM,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Security Fraud
+19617,2012,JPM-PC,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Trading Fraud
+19617,2012,JPM-PD,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Trading Fraud
+19617,2012,JPM-PJ,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Trading Fraud
+19617,2012,JPM-PK,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Trading Fraud
+19617,2012,JPM-PL,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Trading Fraud
+19617,2012,JPM-PM,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Trading Fraud
+19617,2012,AMJ,JPMORGAN CHASE & CO,JPM,2006,Yes,Yes,Yes,Trading Fraud
+27419,2008,TGT,TARGET CORP,TGT,2007,Yes,Yes,Yes,Target Corporation (Data breach)
+40545,2009,GE,GENERAL ELECTRIC CO,GE,2006,Yes,Yes,Yes,General Electric (Accounting fraud)
+47217,2012,HPQ,HP INC,HPQ,2006,Yes,Yes,Yes,HP Inc. (involved in the aftermath of Autonomy scandal)
+50863,2014,INTC,INTEL CORP,INTC,2006,Yes,Yes,Yes,Intel (Antitrust investigations)
+51143,2005,IBM,INTERNATIONAL BUSINESS MACHINES CORP,IBM,2006,No,Yes,No,IBM (Bribery scandal)
+60086,2015,L,LOEWS CORP,L,2006,Yes,Yes,Yes,Loews Corporation (Environmental violations)
+70858,2008,BAC,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BML-PG,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BML-PH,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PE,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BML-PJ,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BML-PL,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PB,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PK,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PL,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PM,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PN,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PO,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PP,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,MER-PK,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PQ,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BAC-PS,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+70858,2008,BACRP,BANK OF AMERICA CORP /DE/,BAC,2006,Yes,Yes,Yes,Bank of America (Mortgage fraud)
+72971,2012,WFC,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2013,WFC,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2014,WFC,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2015,WFC,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC-PY,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC-PR,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC-PL,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC-PC,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC-PD,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC-PZ,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFCNP,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+72971,2016,WFC-PA,WELLS FARGO & COMPANY/MN,WFC,2006,Yes,Yes,Yes,Consumer Fraud
+77476,2016,PEP,PEPSICO INC,PEP,2006,Yes,Yes,Yes,PepsiCo (Bribery scandal)
+91419,2017,SJM,J M SMUCKER Co,SJM,2008,Yes,Yes,Yes,J.M. Smucker Company (Misleading labeling)
+96223,2005,JEF,Jefferies Financial Group Inc.,LUK,2006,No,Yes,No,"Leucadia National (involved in Refco scandal, now part of Jefferies Financial Group, ticker 'JEF')"
+100493,2019,TSN,"TYSON FOODS, INC.",TSN,2007,Yes,Yes,Yes,Tyson Foods (Labor practices investigation)
+310522,2003,FNMA,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAS,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAH,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMFN,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAJ,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAM,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAN,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAI,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAT,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAK,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAL,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMFM,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAO,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAG,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMFO,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2003,FNMAP,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMA,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAS,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAH,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMFN,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAJ,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAM,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAN,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAI,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAT,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAK,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAL,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMFM,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAO,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAG,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMFO,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+310522,2004,FNMAP,FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE,FNM,2006,No,Yes,No,Accounting Fraud (Financial Misrepresentaion)
+312070,2012,ATMP,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2021,ATMP,BARCLAYS BANK PLC,BARC,2015,Yes,No,No,Securities Over-Issuances
+312070,2022,ATMP,BARCLAYS BANK PLC,BARC,2015,Yes,No,No,Securities Over-Issuances
+312070,2012,AYTEF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,BALTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,BWVTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,COWTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,VXX,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,VXZ,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,PGMFF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,SGGFF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJTFF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJUFF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,PGDDF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJGTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJMTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJNTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJOFF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJPFF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJSSF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,ICITF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JEMTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJATF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJCTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,JJETF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,DJP,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,GBBEF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,GRN,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+312070,2012,GRNTF,BARCLAYS BANK PLC,BARC,2015,No,No,No,Involved in the Libor rate-manipulation scandal
+320193,2014,AAPL,Apple Inc.,AAPL,2006,Yes,Yes,Yes,Apple Inc. (Antitrust investigations)
+354950,2010,HD,"HOME DEPOT, INC.",HD,2006,Yes,Yes,Yes,Home Depot (Data breach)
+703351,2015,EAT,"BRINKER INTERNATIONAL, INC",EAT,2008,Yes,Yes,Yes,Brinker International (Labor practices investigation)
+789019,2001,MSFT,MICROSOFT CORP,MSFT,2007,No,Yes,No,Microsoft (Accounting investigations)
+804328,2018,QCOM,QUALCOMM INC/DE,QCOM,2006,Yes,Yes,Yes,Qualcomm (Antitrust lawsuit)
+829224,2018,SBUX,STARBUCKS CORP,SBUX,2006,Yes,Yes,Yes,Starbucks (Racial bias scandal)
+831001,2007,C,CITIGROUP INC,C,2006,Yes,Yes,Yes,Security Fraud
+831001,2008,C,CITIGROUP INC,C,2006,Yes,Yes,Yes,Security Fraud
+831001,2008,C-PJ,CITIGROUP INC,C,2006,Yes,Yes,Yes,Security Fraud
+831001,2008,C-PN,CITIGROUP INC,C,2006,Yes,Yes,Yes,Security Fraud
+833444,2005,JCI,Johnson Controls International plc,JCI,2006,No,Yes,No,Johnson Controls (Bribery scandal)
+858877,2013,CSCO,"CISCO SYSTEMS, INC.",CSCO,2007,Yes,Yes,Yes,Cisco Systems (Whistleblower case)
+887596,2019,CAKE,CHEESECAKE FACTORY INC,CAKE,2008,Yes,Yes,Yes,Cheesecake Factory (Wage theft)
+901491,2017,PZZA,PAPA JOHNS INTERNATIONAL INC,PZZA,2006,Yes,Yes,Yes,Papa John's (Racial slur controversy)
+1013488,2020,BJRI,BJs RESTAURANTS INC,BJRI,2008,Yes,Yes,Yes,BJ's Restaurants (Wage theft)
+1018724,2020,AMZN,AMAZON COM INC,AMZN,2006,Yes,Yes,Yes,Amazon (Price gouging investigations)
+1041061,2013,YUM,YUM BRANDS INC,YUM,2006,Yes,Yes,Yes,Yum! Brands (Food safety scandal)
+1065088,2014,EBAY,EBAY INC,EBAY,2006,Yes,Yes,Yes,eBay (Data breach)
+1065280,2016,NFLX,NETFLIX INC,NFLX,2006,Yes,Yes,Yes,Insider Trading (Subscriber Growth Data Misuse)
+1065280,2017,NFLX,NETFLIX INC,NFLX,2006,Yes,Yes,Yes,Insider Trading (Subscriber Growth Data Misuse)
+1065280,2018,NFLX,NETFLIX INC,NFLX,2006,Yes,Yes,Yes,Insider Trading (Subscriber Growth Data Misuse)
+1065280,2019,NFLX,NETFLIX INC,NFLX,2006,Yes,Yes,Yes,Insider Trading (Subscriber Growth Data Misuse)
+1103982,2017,MDLZ,"Mondelez International, Inc.",MDLZ,2006,Yes,Yes,Yes,Mondelez International (Price-fixing)
+1114446,2000,AMNA,UBS AG,UBS,2016,No,No,No,Fraudulent Bidding Practices
+1114446,2001,AMNA,UBS AG,UBS,2016,No,No,No,Fraudulent Bidding Practices
+1114446,2002,AMNA,UBS AG,UBS,2016,No,No,No,Fraudulent Bidding Practices
+1114446,2003,AMNA,UBS AG,UBS,2016,No,No,No,Fraudulent Bidding Practices
+1114446,2004,AMNA,UBS AG,UBS,2016,No,No,No,Fraudulent Bidding Practices
+1114446,2011,AMNA,UBS AG,UBS,2016,No,No,No,Unauthorized Trading
+1114446,2011,AMND,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,AMTR,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,AMUB,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,USML,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,WUCT,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,UCIB,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,PFFL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,QULL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,SCDL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,SMHB,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,MLPR,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,MTUL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,MVRL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,IWML,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,MLPB,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,HDLB,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,IFED,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,IWDL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,IWFL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,ESUS,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,FBGX,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,FEDL,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,BDCX,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,BDCZ,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,CEFD,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1114446,2011,DJCB,UBS AG,UBS,2016,No,No,No,Tax Evasion
+1119639,2014,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,PBR,2006,Yes,No,No,Petrobras
+1119639,2014,PBR-A,PETROBRAS - PETROLEO BRASILEIRO SA,PBR,2006,Yes,No,No,Petrobras
+1119639,2014,PBR,PETROBRAS - PETROLEO BRASILEIRO SA,PETR4.SA,2006,Yes,No,No,Petrobras (Brazil)
+1119639,2014,PBR-A,PETROBRAS - PETROLEO BRASILEIRO SA,PETR4.SA,2006,Yes,No,No,Petrobras (Brazil)
+1131399,2002,GSK,GSK plc,GSK,2014,No,No,No,Health Care Fraud
+1131399,2003,GSK,GSK plc,GSK,2014,No,No,No,Health Care Fraud
+1131399,2004,GSK,GSK plc,GSK,2014,No,No,No,Health Care Fraud
+1131399,2005,GSK,GSK plc,GSK,2014,No,No,No,Health Care Fraud
+1131399,2006,GSK,GSK plc,GSK,2014,No,No,No,Health Care Fraud
+1131399,2007,GSK,GSK plc,GSK,2014,No,No,No,Health Care Fraud
+1131399,2007,GLAXF,GSK plc,GSK,2014,No,No,No,Health Care Fraud
+1159508,2008,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,No,No,No,FCPA and Commodities Fraud
+1159508,2009,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,No,No,No,FCPA and Commodities Fraud
+1159508,2010,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,No,No,No,FCPA and Commodities Fraud
+1159508,2011,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,No,No,No,FCPA and Commodities Fraud
+1159508,2012,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,No,No,No,FCPA and Commodities Fraud
+1159508,2013,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,No,No,No,FCPA and Commodities Fraud
+1159508,2014,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,FCPA and Commodities Fraud
+1159508,2015,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,FCPA and Commodities Fraud
+1159508,2016,DB,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,FCPA and Commodities Fraud
+1159508,2015,AGATF,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,Wire Fraud
+1159508,2015,DEENF,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,Wire Fraud
+1159508,2015,ADZCF,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,Wire Fraud
+1159508,2015,OLOXF,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,Wire Fraud
+1159508,2015,DGP,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,Wire Fraud
+1159508,2015,DGZ,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,Wire Fraud
+1159508,2015,DZZ,DEUTSCHE BANK AKTIENGESELLSCHAFT,DB,2014,Yes,No,No,Wire Fraud
+1171759,2018,RRGB,RED ROBIN GOURMET BURGERS INC,RRGB,2008,Yes,Yes,Yes,Red Robin Gourmet Burgers (Wage theft)
+1286681,2018,DPZ,DOMINOS PIZZA INC,DPZ,2008,Yes,Yes,Yes,Domino's Pizza (Wage theft)
+1300514,2013,LVS,LAS VEGAS SANDS CORP,LVS,2007,Yes,Yes,Yes,Las Vegas Sands (Money laundering)
+1318605,2018,TSLA,"Tesla, Inc.",TSLA,2008,Yes,Yes,Yes,Tesla Inc. (Elon Musk's misleading tweets)
+1341439,2011,ORCL,ORACLE CORP,ORCL,2006,Yes,Yes,Yes,Oracle (Bribery scandal)
+1467858,2014,GM,General Motors Co,GM,2009,Yes,Yes,Yes,"General Motors (U.S., ignition switch scandal)"
+1490281,2012,GRPN,"Groupon, Inc.",GRPN,2008,Yes,Yes,Yes,Groupon (accounting irregularities post-IPO)
+1512673,2019,SQ,"Block, Inc.",SQ,2013,Yes,Yes,Yes,Square (Data breach)
+1512673,2019,BSQKZ,"Block, Inc.",SQ,2013,Yes,Yes,Yes,Square (Data breach)
+1525769,2019,PLAY,"Dave & Buster's Entertainment, Inc.",PLAY,2012,Yes,Yes,Yes,Dave & Buster's (Wage theft)
+1633917,2019,PYPL,"PayPal Holdings, Inc.",PYPL,2012,Yes,Yes,Yes,PayPal (Consumer fraud)
+1637459,2019,KHC,Kraft Heinz Co,KHC,2011,Yes,Yes,Yes,Kraft Heinz (Accounting scandal)
+1652044,2019,GOOGL,Alphabet Inc.,GOOG,2012,Yes,Yes,Yes,Google (Antitrust investigations)
+1652044,2019,GOOG,Alphabet Inc.,GOOG,2012,Yes,Yes,Yes,Google (Antitrust investigations)
+1759509,2019,LYFT,"Lyft, Inc.",LYFT,2016,Yes,Yes,Yes,Lyft (Labor practices investigation)
+1767582,2020,LKNCY,Luckin Coffee Inc.,LKI,2017,Yes,No,No,Luckin Coffee (China)
