@@ -1,22 +1,15 @@
 import os
-import logging
 import boto3
-from botocore.exceptions import NoCredentialsError, PartialCredentialsError, ClientError
 
 import pandas as pd
 from dotenv import load_dotenv
-from io import StringIO
-import pandas as pd
-import numpy as np
+
 import json
 import logging
 import io
 import csv
 logger = logging.getLogger(__name__)
 
-# Ajust based on your venv
-import sys
-#sys.path.append("/venv/lib/python3.11/site-packages")
 import psycopg2
 
 

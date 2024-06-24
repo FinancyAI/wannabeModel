@@ -12,6 +12,7 @@ from datetime import date
 BATCH_SIZE = 2100
 S3_BUCKET = "financy"
 
+
 # Gets all the tickers available in the EDGAR Database and other general company info
 def get_company_data(user_agent):
     headers = {'User-Agent': user_agent}
@@ -26,6 +27,7 @@ def get_company_data(user_agent):
         print(f"Request exception: {e}")
         return pd.DataFrame()
 
+
 # Selects a batch of company tickers based on the parameter inputted by the user
 def select_company_data_batch(company_data, batch):
     start_index = (batch - 1) * BATCH_SIZE
@@ -33,6 +35,7 @@ def select_company_data_batch(company_data, batch):
     if start_index >= len(company_data):
         raise ValueError("Batch number out of range (1-5)")
     return company_data[start_index:end_index]
+
 
 # Fetches and returns 1 JSON company data based on the ticker inputted
 def fetch_company_data_json(ticker, batch_company_data, user_agent):
@@ -46,6 +49,7 @@ def fetch_company_data_json(ticker, batch_company_data, user_agent):
     except (requests.HTTPError, requests.RequestException) as e:
         print(f"Error for {ticker}: {e}")
         return None
+
 
 # Upload every JSON file to the S3 bucket
 def ticker_json_uploader(batch_company_data, user_agent, s3):
@@ -66,12 +70,11 @@ def ticker_json_uploader(batch_company_data, user_agent, s3):
                 print("Successfully converted to JSON bytes")
 
                 # 2nd Compress the data using gzip, even if it's already in JSON format
-                #compressed_data = BytesIO()
-                #with gzip.GzipFile(fileobj=compressed_data, mode="wb") as gz:
+                # compressed_data = BytesIO()
+                # with gzip.GzipFile(fileobj=compressed_data, mode="wb") as gz:
                 #    gz.write(file_content)
                 # body = compressed_data.getvalue()
 
-        
                 # Preparing the JSON for S3 upload
                 json_buffer = BytesIO()
                 json_buffer.write(json_bytes)
@@ -87,8 +90,9 @@ def ticker_json_uploader(batch_company_data, user_agent, s3):
             except Exception as e:
                 print(f"Failed to upload {ticker} data: {e}")
             
-        counter_total_tries +=1
+        counter_total_tries += 1
         print("total tries:", counter_total_tries)
+
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
