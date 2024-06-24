@@ -224,7 +224,7 @@ if __name__ == '__main__':
     db_port = os.getenv("db_port")
     db_name = os.getenv("db_name")
     
-    anomaly_tickers_list = pd.read_csv("Anomalies_tracker.csv")["Ticker"].unique().tolist()
+    anomaly_tickers_list = pd.read_csv("../Data/Anomalies/Anomalies_tracker.csv")["Ticker"].unique().tolist()
     
     data_to_load = process_json(anomaly_tickers_list)
     delete_table_inRDS(db_name, db_username, db_password, db_host, db_port)
