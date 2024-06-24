@@ -136,7 +136,7 @@ def report_scraper(driver, cik, report_text):
 if __name__ == '__main__':
     driver = create_driver()
     try:
-        text = report_scraper(driver, "0000320193", "10-Q (Quarterly report)")
+        text = report_scraper(driver, "0001637459", "10-Q (Quarterly report)")
         model = Ollama(model="llama3")
 
         analyzer = Agent(
