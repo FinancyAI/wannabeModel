@@ -1,4 +1,3 @@
 /venv
 .env
-data/*
-!data/.gitkeep
+Anomaly_Model/Data/Staged
