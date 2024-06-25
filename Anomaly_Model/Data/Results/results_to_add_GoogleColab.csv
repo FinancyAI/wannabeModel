@@ -1,0 +1,7 @@
+Model,Dataset,Accuracy,Recall
+RandomForest with RandomizedSearchCV,Consolidated,0.9136690647482014,0.4
+Gradient Boosting with RandomizedSearchCV,Consolidated,0.9064748201438849,0.3894736842105263
+AutoEncoder,Consolidated,0.5881294964028777,0.4631578947368421
+RandomForest with RandomizedSearchCV,Filtered,0.8803956834532374,0.4105263157894737
+Gradient Boosting with RandomizedSearchCV,Filtered,0.8794964028776978,0.37894736842105264
+AutoEncoder,Filtered,0.5953237410071942,0.3684210526315789

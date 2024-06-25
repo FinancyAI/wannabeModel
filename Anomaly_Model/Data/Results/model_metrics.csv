@@ -1,0 +1,15 @@
+Model,Dataset,Accuracy,Recall
+Dummy Classifier,Consolidated,0.91,0.0
+Dummy Classifier,Filtered,0.91,0.0
+Isolation Forest with RandomizedSearchCV,Consolidated,0.54,0.36
+Isolation Forest with RandomizedSearchCV,Filtered,0.55,0.51
+One-Class SVM with Default Settings,Consolidated,0.84,0.12
+One-Class SVM with RandomizedSearchCV,Filtered,0.64,0.4
+Gradient Boosting with Default Settings,Consolidated,0.76,0.36
+Gradient Boosting with Default Settings,Filtered,0.71,0.6
+RandomForest with RandomizedSearchCV,Consolidated,0.91,0.4
+Gradient Boosting with RandomizedSearchCV,Consolidated,0.91,0.39
+AutoEncoder,Consolidated,0.59,0.46
+RandomForest with RandomizedSearchCV,Filtered,0.88,0.41
+Gradient Boosting with RandomizedSearchCV,Filtered,0.88,0.38
+AutoEncoder,Filtered,0.6,0.37
