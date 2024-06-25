@@ -135,34 +135,44 @@ def report_scraper(driver, cik, report_text):
 
 if __name__ == '__main__':
     driver = create_driver()
+
+    ciks = ["0001018724"]
+    report_text = "10-Q (Quarterly report)"
+
     try:
-        text = report_scraper(driver, "0001637459", "10-Q (Quarterly report)")
-        model = Ollama(model="llama3")
+        for cik in ciks:
+            text = report_scraper(driver, cik, report_text)
+            if text:
+                model = Ollama(model="llama3")
 
-        analyzer = Agent(
-            role="HTML Summarizer.",
-            goal="To summarize a financial report into a comprehensive summary. Focus on key sections: Business, Risk Factors, Unresolved Staff Comments, Properties, Legal Proceedings, Market for Common Equity, Selected Financial Data, MD&A, Market Risk, Financial Statements, Changes in Accountants, Controls and Procedures, and Exhibits.",
-            backstory="You are an AI Assistant that identifies the important information from a textual Financial report and summarizes it for your client.",
-            verbose=True,
-            allow_delegation=False,
-            llm=model
-        )
+                analyzer = Agent(
+                    role="HTML Summarizer.",
+                    goal="To summarize a financial report into a comprehensive summary. Focus on key sections: Business, Risk Factors, Unresolved Staff Comments, Properties, Legal Proceedings, Market for Common Equity, Selected Financial Data, MD&A, Market Risk, Financial Statements, Changes in Accountants, Controls and Procedures, and Exhibits.",
+                    backstory="You are an AI Assistant that identifies the important information from a textual Financial report and summarizes it for your client.",
+                    verbose=True,
+                    allow_delegation=False,
+                    llm=model
+                )
 
-        summary = Task(
-            description=f"Summarize the following financial report {text}",
-            agent=analyzer,
-            expected_output="A concise summary of the financial report"
-        )
+                summary = Task(
+                    description=f"Summarize the following financial report {text}",
+                    agent=analyzer,
+                    expected_output="A concise summary of the financial report"
+                )
 
-        crew = Crew(
-            agents=[analyzer],
-            tasks=[summary],
-            verbose=1,
-            process=Process.sequential
-        )
+                crew = Crew(
+                    agents=[analyzer],
+                    tasks=[summary],
+                    verbose=1,
+                    process=Process.sequential
+                )
 
-        output = crew.kickoff()
-        print(output)
+                output = crew.kickoff()
+
+                # Save the output to a text file
+                with open(f"{cik}_summary.txt", "w") as file:
+                    file.write(output)
+                logger.info(f"Summary for CIK {cik} saved to {cik}_summary.txt")
 
     finally:
         driver.quit()
