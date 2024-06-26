@@ -5,8 +5,10 @@ This is a project for Barcelona Technology School.
 This repository performs various tasks related to anomaly detection for financial reports of US publicly traded companies. Some of the tasks are the following:
 
 - Extracts financial information from EDGAR APIs and replicates the data in an AWS S3 bucket.
-- Web scrapes from two sources, performs sentiment analysis, and integrates an LLAMA3 model to summarize reports.
+- Processes the data in aws to 
 - Trains a model to detect anomalies from financial reports.
+
+- Web scrapes from two data sources, performs sentiment analysis, and integrates an LLAMA3 model to summarize reports.
 
 ## Project Structure
 
