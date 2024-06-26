@@ -1,7 +1,7 @@
 /venv
 .env
-
-
+.idea
+Anomaly_Model/idea
 # MacOS .gitignore
 # General
 .DS_Store
